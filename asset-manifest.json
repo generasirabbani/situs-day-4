@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/situs-day-4/static/css/main.246a3300.chunk.css",
+    "main.js": "/situs-day-4/static/js/main.51156841.chunk.js",
+    "main.js.map": "/situs-day-4/static/js/main.51156841.chunk.js.map",
+    "runtime-main.js": "/situs-day-4/static/js/runtime-main.2b1c179e.js",
+    "runtime-main.js.map": "/situs-day-4/static/js/runtime-main.2b1c179e.js.map",
+    "static/js/2.1c2483d1.chunk.js": "/situs-day-4/static/js/2.1c2483d1.chunk.js",
+    "static/js/2.1c2483d1.chunk.js.map": "/situs-day-4/static/js/2.1c2483d1.chunk.js.map",
+    "static/js/3.a0900665.chunk.js": "/situs-day-4/static/js/3.a0900665.chunk.js",
+    "static/js/3.a0900665.chunk.js.map": "/situs-day-4/static/js/3.a0900665.chunk.js.map",
+    "index.html": "/situs-day-4/index.html",
+    "static/css/main.246a3300.chunk.css.map": "/situs-day-4/static/css/main.246a3300.chunk.css.map",
+    "static/js/2.1c2483d1.chunk.js.LICENSE.txt": "/situs-day-4/static/js/2.1c2483d1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/situs-day-4/static/media/logo.6ce24c58.svg",
+    "static/media/logo.c570bc1f.png": "/situs-day-4/static/media/logo.c570bc1f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b1c179e.js",
+    "static/js/2.1c2483d1.chunk.js",
+    "static/css/main.246a3300.chunk.css",
+    "static/js/main.51156841.chunk.js"
+  ]
+}
